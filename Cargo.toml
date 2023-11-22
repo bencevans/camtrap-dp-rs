@@ -1,6 +1,6 @@
 [package]
 name = "camtrap_dp"
-version = "0.0.0"
+version = "0.1.0"
 edition = "2021"
 description = "CamTrap DP Interface"
 documentation = "https://github.com/bencevans/camtrap-dp-rs#readme"
@@ -8,7 +8,7 @@ license = "MIT"
 repository = "https://github.com/bencevans/camtrap-dp-rs"
 readme = "README.md"
 homepage = "https://github.com/bencevans/camtrap-dp-rs"
-keywords = ["camtrap", "dp", "data", "package", "interface", "camera", "trap"]
+keywords = ["camtrap", "dp", "camera", "trap"]
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
